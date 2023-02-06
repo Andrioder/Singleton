@@ -32,7 +32,8 @@ GameManager.Instance.StartGame();
 
 <h3 align="left">Tip : Do not overload your project flow with singletone</h3>
 
-![singleton_unity](https://user-images.githubusercontent.com/26487440/216897371-1b1f5df7-37f8-4a66-b719-75fa3020248d.jpeg)
+![Unknown](https://user-images.githubusercontent.com/26487440/216897881-0aea62ca-5115-432b-b856-aa4ac4a6ce49.jpeg)
+
 
 
 </p>
